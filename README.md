@@ -6,6 +6,11 @@
 |---------|---------|--------- |---------|---------|---------|---------|---------|
 | [微信公众号](https://www.baidu.com )  |  [点我](https://www.baidu.com )    |   [点我](https://www.baidu.com )       |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com ) 
 
+-  爱码士，擅长设计模式，架构设计，移动设备通讯，App快捷开发。
+
+-  专注Android移动开发技术，提高开发的效率！
+
+-  码云同步地址：https://gitee.com/LukasCodeLab
 
 ### GitHub主页
 
