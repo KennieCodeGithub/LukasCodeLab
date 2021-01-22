@@ -1,8 +1,11 @@
-# LukasLee ~ 👋
+### Lukas 不断学习，做更好的自己！💪  
 
-| 公众号   |  CSDN   |   简书   |
-|---------|--------- |--------- |
-|  |  |  |
+[English Introduction](./README_EN.md)
+
+| 公众号   | 掘金     |  知乎    |  CSDN   |   简书   |   思否  |   哔哩哔哩  |   今日头条    
+|---------|---------|--------- |---------|---------|---------|---------|---------|
+| [微信公众号](https://www.baidu.com )  |  [点我](https://www.baidu.com )    |   [点我](https://www.baidu.com )       |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com )  |   [点我](https://www.baidu.com ) 
+
 
 ### GitHub主页
 
