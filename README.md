@@ -17,7 +17,7 @@
 + **[LukasCodeLab.github.io](LukasCodeLab.github.io)**
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukasCodeLab)](https://github.com/LukasCodeLab)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukasCodeLab&theme=vue-dark&show_icons=true)](https://github.com/LukasCodeLab)
 
 <br>
 
