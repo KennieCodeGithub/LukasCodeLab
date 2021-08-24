@@ -1,4 +1,4 @@
-## LukasCodeLab 的 GitHub
+## KennieCodeGithub 的 GitHub
 
 不断学习，做更好的自己！💪 
 
@@ -6,7 +6,7 @@
 
 ### 🚀统计
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LukasCodeLab&theme=vue-dark&show_icons=true)](https://github.com/LukasCodeLab)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KennieCodeGithub&theme=vue-dark&show_icons=true)](https://github.com/KennieCodeGithub)
 
 ### 🌐个人网站和博客
 
