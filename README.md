@@ -1,4 +1,4 @@
-## KennieCodeGithub 的 GitHub
+## kennie-github 的 GitHub
 
 不断学习，做更好的自己！💪 
 
@@ -6,7 +6,7 @@
 
 ### 🚀统计
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KennieCodeGithub&theme=vue-dark&show_icons=true)](https://github.com/KennieCodeGithub)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennie-github&theme=vue-dark&show_icons=true)](https://github.com/kennie-github)
 
 ### 🌐个人网站和博客
 
