@@ -67,23 +67,8 @@
 
  | 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [KennieAndroidTemplate](https://github.com/kenniecode/KennieAndroidTemplate)    | 安卓开源项目模板 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/kenniecode/KennieAndroidTemplate?style=social) |
+| [KennieAndroidTemplate](https://github.com/kenniecode/KennieAndroidTemplate)    | 安卓开源项目模板 <sup>[开发必备]</sup> |
 
-
-<!-- | 项目                                                         | 描述                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) | 最好的Typora主题 ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/drakeTyporaTheme?style=social) |
-| [Serialize](https://github.com/liangjingkanji/Serialize)     | 应用数据存储的神器, 比SQLite/SP更方便, 可创建自动本地读写/应用销毁恢复的字段, <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/Serialize?style=social) |
-| [StateLayout](https://github.com/liangjingkanji/StateLayout) | 一行代码构建整个应用的缺省页![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/StateLayout?style=social) |
-| [StatusBar](https://github.com/liangjingkanji/StatusBar)     | 🍥 Android 一行代码配置透明状态栏 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/StatusBar?style=social) |
-| [Channel](https://github.com/liangjingkanji/Channel)         | 优雅的事件消息框架 🍯 LiveData / Coroutine / 生命周期 特性 EventBus <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/Channel?style=social) |
-| [Tooltip](https://github.com/liangjingkanji/Tooltip)         | 提醒工具(Toast/ProgressDialog), kotlin/异步线程/无覆盖/全局配置/自定义等级 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/tooltip?style=social) |
-| [debugKit](https://github.com/liangjingkanji/debugkit)       | 开发调试悬浮窗口工具![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/tooltip?style=social) |
-| [LogCat](https://github.com/liangjingkanji/LogCat)           | 日志输出工具 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/logcat?style=social) |
-| [AutoDispose](https://github.com/liangjingkanji/AutoDispose) | 一个函数自动解绑RxJava订阅, 比RxLifeCycle更简单              |
-| [SougouSkin](https://github.com/liangjingkanji/SougouSkin)   | 简约的搜狗输入法皮肤                                         |
-| [简历模板](https://github.com/liangjingkanji/Resume-Template) | 快速生成简洁的个人简历(部署在线简历). [在线预览](https://liangjingkanji.github.io/Resume-Template/) |
-   -->
 
 ### 📧如何与我取得联系
 
