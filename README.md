@@ -65,6 +65,11 @@
 
 <br>
 
+ | 项目                                                         | 描述                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [KennieAndroidTemplate](https://github.com/kenniecode/KennieAndroidTemplate)    | 安卓开源项目模板 <sup>[开发必备]</sup>![GitHub Repo stars](https://img.shields.io/github/stars/kenniecode/KennieAndroidTemplate?style=social) |
+
+
 <!-- | 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) | 最好的Typora主题 ![GitHub Repo stars](https://img.shields.io/github/stars/liangjingkanji/drakeTyporaTheme?style=social) |
