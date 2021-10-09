@@ -59,7 +59,7 @@
 
 <p align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennie-github&theme=vue-dark&show_icons=true)](https://github.com/kennie-github)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenniecode&theme=vue-dark&show_icons=true)](https://github.com/kenniecode)
 
 </p>
 
