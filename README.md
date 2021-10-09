@@ -57,11 +57,11 @@
 <img src="https://img.shields.io/badge/Android-Programmer-green?style=flat&logo=appveyor" />　<img src="https://img.shields.io/badge/Language-Kotlin-blue?style=flat&logo=appveyor" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennie-github&theme=vue-dark&show_icons=true)](https://github.com/kennie-github)
 
-</p> -->
+</p>
 
 <br>
 
