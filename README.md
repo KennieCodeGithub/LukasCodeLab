@@ -42,14 +42,14 @@
   <a href="https://www.baidu.com">
     <img src="https://img.shields.io/badge/🚀%20微信公众号-brightness.svg" />
   </a>
-  <a href="https://gitee.com/LukasCodeLab">
+  <a href="https://gitee.com/kenniecode">
     <img src="https://img.shields.io/badge/🐴%20码云地址-brightness.svg" />
   </a>
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=7eeXOuUkZl5A5jLBh4WgcWsma2VxK6hJ&jump_from=webapi">
     <img src="https://img.shields.io/badge/🐧%20加入Q群-brightness.svg" />
   </a>
-  <a href="https://github.com/LukasCodeLab">
-    <img src="https://komarev.com/ghpvc/?username=getActivity&color=brightgreen&label=👁%20Views" />
+  <a href="https://github.com/kenniecode">
+    <img src="https://komarev.com/ghpvc/?username=kenniecode&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
 
