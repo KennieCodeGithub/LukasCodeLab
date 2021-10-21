@@ -36,20 +36,29 @@
 <img src="https://img.shields.io/badge/Android-Programmer-green?style=flat&logo=appveyor" />　<img src="https://img.shields.io/badge/Language-Kotlin-blue?style=flat&logo=appveyor" />
 </p>
 
+
+<div align="center">
 <p align="center">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kennielab&theme=vue-dark&show_icons=true)](https://github.com/kennielab)
 
 </p>
 
+</div>
+
 <br>
 
- | 项目                                                         | 描述                                                         |
+<p align="center">
+
+| 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [KennieAndroidTemplate](https://github.com/kennielab/KennieAndroidTemplate)    | 安卓开源项目模板 <sup>[开发必备]</sup> |
 | [kennie_webrtc](https://github.com/kennielab/kennie_webrtc)    | webrtc视频通话 |
 | [KennieImagePicker](https://github.com/kennielab/KennieImagePicker)    | 高仿微信图片选择器 |
 | [KennieFilterMenu](https://github.com/kennielab/KennieFilterMenu)    | 下拉条件筛选菜单 |
+
+</p>
+
 
 ### 联系方式
 - 微信：**lkweixh**
