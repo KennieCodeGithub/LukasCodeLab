@@ -1,5 +1,5 @@
 <p align="center">
-<a href=""><img src="https://github.com/kennielab/KennieAndroidTemplate/tree/main/resources/screenshots/logo.gif" alt="" width="50%"/></a>
+<a href=""><img src="resources/screenshots/logo.gif" alt="" width="50%"/></a>
 </p>
 
 <h3 align="center">
