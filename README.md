@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://github.com/kennielab?tab=repositories">『 开源项目 』</a>
-<a href="https://kennielab.github.io/Resume/">『 在线简历 』</a>
+<a href="https://kennielab.github.io/Resum/">『 在线简历 』</a>
 </p>
 
 <p align="center">
